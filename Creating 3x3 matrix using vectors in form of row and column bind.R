@@ -1,0 +1,6 @@
+a<-c(4,7,9)
+b<-c(2,5,8)
+c<-c(1,3,6)
+m1<-cbind(a,b,c)
+print("The Matrix from the vectors is: ")
+print(m1)
